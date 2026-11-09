@@ -1,9 +1,9 @@
 import { useEffect, useRef, useState, useMemo } from "react";
-import img1 from "../assets/img1.JPG"
+import img1 from "../assets/img1.jpg"
 import img2 from "../assets/img2.JPG"
 import img3 from "../assets/img3.JPG"
-import photo1 from "../assets/photo1.JPG"
-import photo2 from "../assets/photo2.PNG"
+import photo1 from "../assets/photo1.jpg"
+import photo2 from "../assets/photo2.png"
 import photo3 from "../assets/photo3.png"
 import {motion , AnimatePresence } from "framer-motion";
 
